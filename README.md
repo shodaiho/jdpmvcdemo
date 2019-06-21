@@ -1,5 +1,3 @@
 手写MVC DEMO
 
-![](https://note.youdao.com/yws/res/4247/WEBRESOURCE627f083b611325aa24d09683542c6d96)
-
-![](https://note.youdao.com/yws/res/4250/WEBRESOURCE3cb955d30f6f6171c9e3bf9f8194e8c0)
+![image](https://user-images.githubusercontent.com/6913696/59932430-baf3bc00-9479-11e9-9dc1-6838c0e66076.png)
